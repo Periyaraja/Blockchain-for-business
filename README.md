@@ -6,7 +6,7 @@
 
 ### PROCEDURE
 
-
+```
 1.Go to https //geth.ethereum.org/ and download the software for windows. While installing select
 both geth and development tools.
 2.To check whether the geth is installed ,run “geth” command in your command prompt.
@@ -68,7 +68,6 @@ authrpc.port 8546 --networkid { NETWORK_ID } --unlock { ADDRESS_NODE2 } --passwo
 19.Node1 has deployed and added to blockchain.
 5
 PROGRAM
-```
 #Genesis file privateblock.json
 {
 "config" {
